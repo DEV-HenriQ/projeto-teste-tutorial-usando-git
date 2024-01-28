@@ -1,1 +1,6 @@
-console.log('alow')
+alow()
+
+function alow()
+{
+   console.log('alow')
+}
