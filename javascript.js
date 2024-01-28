@@ -2,5 +2,5 @@ alow()
 
 function alow()
 {
-   console.log('alow')
+   console.log('alow galera')
 }
